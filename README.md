@@ -4,12 +4,12 @@ All the official assets  related to the organization are  held in this repositor
 
 ## Introducing the Assets Repository
 
-A brand new repository for our organization on GitHub! This repository has been created to make it easier for all members of the organization to submit their assets, such as logos and banners, for approval.
+A brand new repository for our organization on GitHub! This repository has been created to make it easier for all members of the community to submit their assets, such as logos and banners, for approval.
 
-Having a centralized location for all of our organization's assets is crucial for maintaining a consistent brand identity. By using this repository, we can ensure that all assets are up to date, high quality, and approved by our team before being used in any official capacity.
+Having a centralized location for all of our community's assets is crucial for maintaining a consistent brand identity. By using this repository, we can ensure that all assets are up to date, high quality, and approved by our team before being used in any official capacity.
 
-We invite all members of the organization to submit their assets to the Assets Repository for review. Once submitted, our team will review the asset and provide feedback as needed. If the asset is approved, it will be added to the repository and made available to other members of the organization.
+We invite all members of the community to submit their assets to the ```assets```Repository for review. Once submitted, our team will review the asset and provide feedback as needed. If the asset is approved, it will be added to the repository and made available to other members of the community.
 
-Submitting your assets is easy. Simply navigate to the Assets Repository on GitHub, create a new issue, and upload your asset file. Please include a brief description of the asset and its intended use.
+Submitting your assets is easy. Simply navigate to the ```assets``` Repository on GitHub, create a new issue, and upload your asset file. Please include a brief description of the asset and its intended use.
 
-We are excited to launch this new repository and look forward to seeing all of the great assets our members will submit. Let's work together to create a strong, consistent brand identity for our organization!
+We are excited to launch this new repository and look forward to seeing all of the great assets our members will submit. Let's work together to create a strong, consistent brand identity for our community.
