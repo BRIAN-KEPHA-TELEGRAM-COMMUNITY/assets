@@ -1,5 +1,5 @@
 # assets
-All the official assets  related to the organization are  held in this repository
+All the official assets  related to the community are  held in this repository
 
 
 ## Introducing the Assets Repository
